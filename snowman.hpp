@@ -4,5 +4,4 @@
 using namespace std;
 namespace ariel {
     string snowman(int str);
-    int length(int);
     }
